@@ -3,3 +3,5 @@ def cool_print(text):
 
 
 cool_print('fooooo')
+cool_print('fooooo')
+cool_print('fooooo')
