@@ -1,4 +1,7 @@
-print('foobar')
-print('foo fooo fooo')
-print('user 1 new diff')
+def cool_print(text):
+    print('cool', text)
 
+
+cool_print('fooooo')
+cool_print('fooooo')
+cool_print('fooooo')
